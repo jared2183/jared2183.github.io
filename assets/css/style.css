@@ -558,12 +558,16 @@ section {
   margin-bottom: 10px;
 }
 
+.resume .resume-item p {
+  margin-bottom: 5px;
+}
+
 .resume .resume-item ul {
   padding-left: 20px;
 }
 
 .resume .resume-item ul li {
-  padding-bottom: 10px;
+  padding-bottom: 5px;
 }
 
 .resume .resume-item:last-child {
