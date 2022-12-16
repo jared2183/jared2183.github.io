@@ -1,0 +1,23 @@
+Portfolio:
+- voron project
+- nozzle enclosure
+- high school robotics 2020
+- linkage project
+- sample rack
+- triple pendulum simulation
+- phone case project?
+- overwatch logo CNC?
+- ticketing system?
+- ctec scraper?
+
+UI: 
+- add fading animation to "Hi there" and "I'm Jared" separately (similar to apple)
+- replace white background with gradient
+- have the entire image for portfolios be clickable to view more
+
+Functional:
+- make portfolio information scrollable instead of slideshow
+- add google analytics to website to see how many people view it
+
+Potential:
+- maybe add back the services section and rename to interests
