@@ -417,6 +417,15 @@ section {
   color: #728394;
 }
 
+.about img {
+  padding-left: 50px;
+}
+
+.about .content {
+  padding-right: 250px;
+  padding-left: 30px
+}
+
 .about .content ul {
   list-style: none;
   padding: 0;
