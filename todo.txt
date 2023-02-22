@@ -16,8 +16,13 @@ UI:
 - have the entire image for portfolios be clickable to view more
 
 Functional:
-- make portfolio information scrollable instead of slideshow
-- add google analytics to website to see how many people view it
+- add captions to photos in slideshow
+- embed youtube links in slideshow
+- potentially have a single portfolio details template and a js script that loads the unique content stored in an array or something (so I don't have to copy paste a single formatting change 5x)
 
 Potential:
 - maybe add back the services section and rename to interests
+
+Done:
+- add google analytics to website to see how many people view it
+- make portfolio information scrollable instead of slideshow
