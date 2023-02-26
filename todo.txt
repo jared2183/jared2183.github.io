@@ -17,7 +17,7 @@ UI:
 
 Functional:
 - add captions to photos in slideshow
-- embed youtube links in slideshow
+- embed youtube links in slideshow for videos
 - potentially have a single portfolio details template and a js script that loads the unique content stored in an array or something (so I don't have to copy paste a single formatting change 5x)
 
 Potential:
