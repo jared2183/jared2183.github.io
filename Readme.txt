@@ -1,1 +1,1 @@
-Personal Website for Jared Yang
+My personal website, featuring my portfolio of previous projects and resume. 
