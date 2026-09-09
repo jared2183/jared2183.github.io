@@ -1,11 +1,11 @@
 # jared2183.github.io
 
-My personal website: selected projects, background, and experience.
+My personal website: selected projects and a little background.
 
 Plain HTML, CSS, and a few lines of JavaScript. No build step, no framework.
 
 ```
-index.html                  home page (work, about, experience)
+index.html                  home page (work, about)
 portfolio-html/*.html       one page per project
 assets/css/site.css         all styles (design tokens at the top)
 assets/js/site.js           header state, scroll reveal, footer year
